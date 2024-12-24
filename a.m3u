@@ -23,7 +23,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010117/1.m3u8
 #EXTINF:-1 tvg-name="福建教育" tvg-name="福建教育"tvg-id="https://live.fanmingming.com/tv/福建教育.png" group-title="综合频道",福建教育
 http://27.148.240.138/PLTV/88888888/224/3221226884/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EebfHIVcSZD6SN7tFck1_QQ%7EtaBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20190928020517%2C2470444%2C218.66.114.183%2C20190928020517%2CUmai%3ACHAN%2F3548891%40BESTV.STA.SMG%2C247044420190928020517%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBRABDzthTEwMHkCvpm5lEgqbG5j49sLk1vb7v_SfHEg8H8U4EzGP78qIhEkg6kZdGbWie10-kpzHacGTdMcL1qzOiUCLKESreXii25bFq9F9OolC-ZZbgu_siHvbhfnmaMMMm-13vM8OWZSnRRbFOZvWawO-Xwh7gS_NYMGhuhgdBNECeWQWZA8aKxjwXz54V6eWJj8jGGYo1QAAAA
 #EXTINF:-1 tvg-name="厦门卫视" tvg-name="厦门卫视"tvg-id="https://live.fanmingming.com/tv/厦门卫视.png" group-title="综合频道",厦门卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1"tvg-id="https://live.fanmingming.com/tv/CCTV1.png" group-title="综合频道",CCTV1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-name="CCTV1"tvg-id="https://live.fanmingming.com/tv/CCTV1.png" group-title="综合频道",CCTV-1备可回放
