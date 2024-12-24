@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.github.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.github.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="福建综合" tvg-name="福建综合"tvg-id="https://live.fanmingming.com/tv/福建综合.png" group-title="综合频道",福建综合
 http://27.148.240.138/PLTV/88888888/224/3221226722/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ErRaTHneIiqcNcHktvIE6Rw%7EtaBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20190928020517%2C2470444%2C218.66.114.183%2C20190928020517%2CUmai%3ACHAN%2F4175719%40BESTV.STA.SMG%2C247044420190928020517%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBRABDzthTEwMHkCvpm5lEgqbG5j49sLk1vb7v_SfHEg8H8U4EzGP78qIhEkg6kZdGbWie10-kpzHacGTdMcL1qzOiUCLKESreXii25bFq9F9OolC-ZZbgu_siHvbhfnmaMMMm-13vM8OWZSnRRbFOZvWawO-Xwh7gS_NYMGhuhgdBNECeWQWZA8aKxjwXz54V6eWJj8jGGYo1QAAAA
 #EXTINF:-1 tvg-name="福建公共" tvg-name="福建公共"tvg-id="https://live.fanmingming.com/tv/福建公共.png" group-title="综合频道",福建公共
@@ -41,9 +41,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-name="CCTV3" tvg-name="CCTV3"tvg-id="https://live.fanmingming.com/tv/CCTV3.png" group-title="综合频道",CCTV-3
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-name="CCTV3"tvg-id="https://live.fanmingming.com/tv/CCTV3.png" group-title="综合频道",CCTV-3备用
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000265003/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV4" tvg-name="CCTV4"tvg-id="https://live.fanmingming.com/tv/CCTV4.png" group-title="综合频道",CCTV4
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8
+http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1452344678_931674717/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?icpid=88888888&RTS=1713968281&from=4&hms_devid=1143&online=1713968281&vqe=3『线路1』 
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8『线路3』 
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8『线路4』
 #EXTINF:-1 tvg-name="CCTV5" tvg-name="CCTV5"tvg-id="https://live.fanmingming.com/tv/CCTV5.png" group-title="综合频道" ,CCTV-5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事"tvg-id="https://live.fanmingming.com/tv/CCTV5.png" group-title="综合频道",CCTV-5+ 
